@@ -1,0 +1,12 @@
+38 direcciones de memoria para level
+13x11 (143) bloques en pantalla
+
+BOMBERMAN ALIVE 0x0069
+LASTDIRECTIONPRESSED 0x007B
+WEIRD ONE 0X04A3
+
+WRAM
+0x026D enemyX
+0x0281 enemyY
+
+PALRAM PALETA DE COLORES

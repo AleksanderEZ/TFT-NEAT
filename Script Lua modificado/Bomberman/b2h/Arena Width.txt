@@ -1,0 +1,4 @@
+Areas = 13B61-13B90
+
+00 = small
+01 = long

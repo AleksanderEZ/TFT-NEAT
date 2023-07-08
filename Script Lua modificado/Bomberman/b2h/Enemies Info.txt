@@ -1,0 +1,67 @@
+00 Looks like a balloon. From start to end of Normal Mode, you'll 
+encounter 43 of them(not including Bonus Stages). They move fairly slow and 
+straight, turning occasionally. One blast each will take care of them.
+
+07 Looks like a bouncing blob. From start to end of Normal Mode, 
+you'll encounter 9 of them. They're not that fast, move straight and turn 
+occasionally. They move through bricks. One blast each will take care of them.
+
+02 Looks like a mop head. From start to end of Normal Mode, you'll 
+encounter 22 of them. They are not that fast, move straight and turn 
+occasionally. One blast each will take care of them.
+
+08 Looks like a ghost. From start to end of Normal Mode, you'll 
+encounter 12 of them. They move slowly and very sporadically. They can move 
+through bricks and teleport from time to time to time. One blast each will take 
+care of them.
+
+04 Looks like a mask with white triangles on each side. From start 
+to end of Normal Mode, you'll encounter 58 of them. They're not that fast, move 
+straight and turn occasionally. They will follow you if you get too close. One 
+blast each will take care of them.
+
+03 Looks like a little flying dragon. From start to end of Normal 
+Mode, you'll encounter 31 of them. They move slowly and always follow you. They 
+can move through bricks. One blast each will take care of them.
+
+01 Looks like a spinning coin. From start to end of Normal Mode, 
+you'll encounter 11 of them. They move kind of fast, straight and turn
+occasionally. One blast each will take care of them.
+
+0A Looks like a bouncing ball with hair. From start to end of 
+Normal Mode, you'll encounter 12 of them. They move slow and straight, turning 
+occasionally. One blast each will take care of them.
+
+09 Looks like a mop. From start to end of Normal Mode, you'll 
+encounter 15 of them. They're not too fast, move straight and turn 
+occasionally. One blast each will take care of them.
+
+0B Looks like a deranged frog. From start to end on Normal Mode, 
+you'll encounter 15 of them. They move slow and sporadically. One blast each 
+will take care of them
+
+05 Looks like a circle. From start to end on Normal Mode, 
+you'll encounter 14 of them. They're not that fast and move sporadically. They 
+can move through bricks. One blast each will take care of them.
+
+0C Looks like fake teeth and jaw. From start to end on Normal Mode, 
+you'll encounter 16 of them. They move fast and straight, turning occasionally. 
+Will follow you if you get too close. One blast each will take care of them.
+
+0D Looks like a rounded mountain peek. From start to end on Normal 
+Mode, you'll encounter 18 of them.  They move fast and sporadically. One Blast 
+each will take care of them.
+
+06 Looks like a frog. From start to end on Normal Mode, you'll 
+encounter 16 of them. They move kind of fast, straight and turn occasionally. 
+They turns into bombs and explode periodically. One blast each will take care 
+of  them.
+
+0F Looks like a spinning top. From start to end on Normal Mode, 
+you'll encounter 12 of them. They move fast, straight and turn occasionally. 
+One blast each will take care of them.
+
+0E Looks like a ghost with a green mask over it's eyes. From start 
+to end on Normal Mode, you'll encounter 16 of them. They move slowly and 
+sporadically. Speeds up and chases you if you get too close. One blast each 
+will take care of them.
