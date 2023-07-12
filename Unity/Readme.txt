@@ -1,0 +1,1 @@
+This are barebone Unity projects. To make them work first create a project so the Library directory and other support directories are created. Then include these files.
