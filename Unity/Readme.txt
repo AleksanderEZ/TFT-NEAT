@@ -1,1 +1,1 @@
-This are barebone Unity projects. To make them work first create a project so the Library directory and other support directories are created. Then include these files.
+This are barebone Unity projects. To make them work first create a project (2D template) so the Library directory and other support directories are created - LET THE PROCESS OF CREATING THE PROJECT FINISH. Then include these files in the project directory, overwriting if necessary.
